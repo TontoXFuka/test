@@ -7,4 +7,5 @@
       <div>ボタンじゃないVuetify</div>
     </v-col>
   </v-row>
+  <NuxtPage />
 </template>
